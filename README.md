@@ -4,6 +4,12 @@
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
+ <div>
+  <a href="https://github.com/Edu4rt3">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Edu4rt3&show_icons=true&theme=dark"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu4rt3&layout=compact&theme=dark"/>
+ </div>
+
 [LinkedIn](https://www.linkedin.com/in/eduardoduarte-dev/)
  
 
