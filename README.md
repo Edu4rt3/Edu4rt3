@@ -5,7 +5,7 @@
   <img align="center" alt="Eduardo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
-
+##
  <div>
   <a href="https://github.com/Edu4rt3">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Edu4rt3&show_icons=true&theme=dark"/>
