@@ -1,5 +1,5 @@
 ## Hello, I'm Eduardo Duarte!
- * I'm a Computer science student, actually in the 3º semester, starting my life as a developer,  I'm constantly seeking to expand my skills and knowledge in the technology field, with a particular interest in software development, in special using Python which is my main language.
+ * I'm a Computer science student, actually in the 4th semester, starting my life as a developer,  I'm constantly seeking to expand my skills and knowledge in the technology field, with a particular interest in software development, in special using Python which is my main language.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Eduardo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
