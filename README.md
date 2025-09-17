@@ -9,7 +9,15 @@ I'm a Computer Science student in the 4th semester, starting my life as a develo
   <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
 </div>
 
-## Stats & Languages
+## My Top Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-90%25-FFD43B?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-80%25-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-70%25-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-60%25-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
+
+## GitHub Stats
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Edu4rt3&show_icons=true&theme=dark&count_private=true"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu4rt3&layout=compact&theme=dark&langs_count=8"/>
