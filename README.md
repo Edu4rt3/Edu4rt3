@@ -9,11 +9,10 @@
 </div>
 
 ##
- <div>
-  <a href="https://github.com/Edu4rt3">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Edu4rt3&show_icons=true&theme=dark"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu4rt3&layout=compact&theme=dark"/>
- </div>
+ <div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Edu4rt3&show_icons=true&theme=dark&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu4rt3&layout=compact&theme=dark"/>
+</div>
 
 <div> 
   <a href="https://www.linkedin.com/in/eduardoduarte-dev/"/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
