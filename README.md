@@ -11,7 +11,7 @@
 ##
  <div>
   <a href="https://github.com/Edu4rt3">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Edu4rt3&show_icons=true&theme=dark"/>
+  <img height="180cm" src="https://camo.githubusercontent.com/4d5f1235fe278d4951d58379117f75fb1b2db45130244470c7e6a69175689242/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6172747572626f6d74656d706f2d646576266c61796f75743d636f6d70616374266c616e67735f636f756e743d36267468656d653d6d65726b6f"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu4rt3&layout=compact&theme=dark"/>
  </div>
 
